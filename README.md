@@ -28,5 +28,5 @@
 	TODO
 	
 ## Contact Us
-	[LinkedIn](https://www.linkedin.com/in/xingwen-zhang/) 
+[LinkedIn](https://www.linkedin.com/in/xingwen-zhang/) 
 	
