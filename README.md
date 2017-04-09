@@ -2,7 +2,7 @@
 
 
 ## Goal: 
-	We want to take use of LSTM to generate the headlines of news in Chinese, which could be used in search engine with brief description for the searched results.
+We want to take use of LSTM to generate the headlines of news in Chinese, which could be used in search engine with brief description for the searched results.
 
 ## Requirements
 	Python >= 3.5
